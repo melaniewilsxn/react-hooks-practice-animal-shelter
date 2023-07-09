@@ -11,6 +11,15 @@
     },
     {
       "id": "2c902312-dfa3-446f-8b4b-5e115170d807",
+      "type": "dog",
+      "gender": "male",
+      "age": 4,
+      "weight": 1,
+      "name": "Trident",
+      "isAdopted": false
+    },
+    {
+      "id": "6057de4f-6725-4b9f-a0b1-1f3bd3ad04a6",
       "type": "cat",
       "gender": "male",
       "age": 3,
@@ -19,16 +28,16 @@
       "isAdopted": false
     },
     {
-      "id": "6057de4f-6725-4b9f-a0b1-1f3bd3ad04a6",
-      "type": "cat",
+      "id": "a7c8b608-0d39-401b-a693-1bc882f21425",
+      "type": "dog",
       "gender": "male",
-      "age": 2,
-      "weight": 5,
-      "name": "Hemingway",
+      "age": 4,
+      "weight": 1,
+      "name": "Trident",
       "isAdopted": false
     },
     {
-      "id": "a7c8b608-0d39-401b-a693-1bc882f21425",
+      "id": "0ad23cf0-6ea5-432c-bb48-8556a5c1a484",
       "type": "dog",
       "gender": "male",
       "age": 1,
@@ -37,7 +46,7 @@
       "isAdopted": false
     },
     {
-      "id": "0ad23cf0-6ea5-432c-bb48-8556a5c1a484",
+      "id": "ffc4663d-71f3-4ad9-8242-973756c8b8b1",
       "type": "dog",
       "gender": "female",
       "age": 6,
@@ -46,21 +55,12 @@
       "isAdopted": false
     },
     {
-      "id": "ffc4663d-71f3-4ad9-8242-973756c8b8b1",
+      "id": "9750e959-f8ef-465f-9e13-16323454dc1f",
       "type": "dog",
       "gender": "female",
       "age": 10,
       "weight": 5,
       "name": "Wisdom",
-      "isAdopted": false
-    },
-    {
-      "id": "9750e959-f8ef-465f-9e13-16323454dc1f",
-      "type": "micropig",
-      "gender": "male",
-      "age": 4,
-      "weight": 5,
-      "name": "Hemingway",
       "isAdopted": false
     },
     {
